@@ -1,0 +1,17 @@
+Package: StatComp22091
+Type: Package
+Title: Final project for 'Statistical Computing' course
+Version: 1.0
+Date: 2022-12-9
+Author: 22091
+Maintainer: 22091 <lxl2333@mail.ustc.edu.cn>
+Description: Several R and Rcpp function are included in this package for illustration. 
+License: GPL (>= 2)
+Imports: boot,bootstrap,DAAG,microbenchmark,Rcpp
+LinkingTo: Rcpp
+RoxygenNote: 7.2.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: https://github.com/luxuelihong/StatComp22091
+BugReports: https://github.com/luxuelihong/StatComp22091/issues

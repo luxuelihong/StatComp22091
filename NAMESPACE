@@ -2,3 +2,5 @@
 
 export(delta_i)
 export(gibbs_cpp)
+useDynLib(StatComp22091, .registration = TRUE)
+import(Rcpp)
